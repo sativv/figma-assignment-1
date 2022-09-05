@@ -1,0 +1,72 @@
+.logo {
+    font-family: 'Montserrat';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 160%;
+    /* or 48px */
+
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px ;
+}
+.logo-dot {
+    color:#33A2E0
+}
+
+.main-title {
+    font-family: 'Ramaraja';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    max-width: 495px;
+    width: 100%;
+    margin-top: 203px;
+    margin-left: 200px;
+    color: #1B0A42;
+}
+
+.main-info{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    max-width: 583px;
+    width: 100%;
+    margin-left: 200px;
+    margin-top: 10px;
+    color: #9A9A9A;
+
+}
+
+
+section{
+    display:inline-block
+}
+.main-butn {
+    width: 152px;
+    height: 64px;
+    background-color: #33A2E0;
+    border-radius: 6px;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+    border: none;
+
+    color: #FFFFFF;
+}
